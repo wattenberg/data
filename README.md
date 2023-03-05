@@ -1,2 +1,3 @@
 # data
-Data for use in visualizations
+
+This repo contains data for classroom use in visualization homework.
