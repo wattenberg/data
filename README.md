@@ -15,7 +15,10 @@ Proportion values for the state data are calculated simply as a proportion of al
 
 I have also added a new "Name-Gender" field for convenience.
 
+Data is yearly 1880-2021 for overall US; and 1880-2020 by decade for state data.
+
 
 **NYC name history** is from NYC Open Data: https://data.cityofnewyork.us/Health/Popular-Baby-Names/25th-nujf/data
 
 Note that this data set is processed to remove duplicate lines (which I believe are errors in the original), normalize case for names (which varied in the original) and normalize ethnicity fields (which also varied in number of characters in original). As with the US data, I have added a Name-Gender field for convenience.
+
