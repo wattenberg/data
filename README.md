@@ -2,6 +2,12 @@
 
 This repo contains data for classroom use in visualization homework.
 
+* **us_name_history.csv** contains yearly data 1880-2021 for male and female baby names across the US.
+* **state_history_decades.csv** contains data at decade intervals 1880-2020 for male and female baby names for each US state
+* **nyc_names_final.csv** contains yearly (recent) data for babies born in New York City. Unlike the other data sets, it has data on ethnicity.
+
+
+
 # Sources
 **US name history** is US government data, from the Social Security Administration (SSA).
 
