@@ -11,6 +11,8 @@ This repo contains data for classroom use in visualization homework.
 # Sources
 **US name history** is US government data, from the Social Security Administration (SSA).
 
+**us_name_history_small** is a filtered version of the same data set, including only most popular names, designed to be small and easy to work with.**
+
 See this link for full info: https://www.ssa.gov/oact/babynames/limits.html
 
 Counts for baby names come from: https://www.ssa.gov/oact/babynames/names.zip
