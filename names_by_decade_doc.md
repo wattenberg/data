@@ -63,7 +63,7 @@ Aaban,Male,Aaban-M,2010,10.9,5.406029402420773e-06
 Aabha,Female,Aabha-F,2010,6.83,3.5474218280428824e-06
 Aabha,Female,Aabha-F,2020,5.0,2.823499969428362e-06
 [etc.]
-The format is: name, gender, a unique identified made of the name and gender, decade,
+The format is: name, gender, a unique identifier made of the name and gender, decade,
 and proportion of babies with that name born that decade.
 
 I'd like the visualization tool to have a text entry box for a name,
