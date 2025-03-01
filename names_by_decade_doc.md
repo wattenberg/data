@@ -1,3 +1,8 @@
+---
+layout: default
+title: Documentation for names_by_decade.js
+---
+
 # US baby names, by decade
 
 The file [names_by_decade.js](https://wattenberg.github.io/data/names_by_decade.js) contains historical data on US baby names, providing
