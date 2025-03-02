@@ -2,6 +2,10 @@
 
 This repo contains data for classroom use in visualization homework.
 
+* **names_by_decade.js** decade-by-decade data on US baby name popularity. See (names_by_decade_doc.html) for documentation.
+
+## Older material
+
 * **us_name_history.csv** contains yearly data 1880-2021 for male and female baby names across the US.
 * **us_name_history_small.csv** contains a selected set of yearly data 1880-2021 for male and female baby names across the US.
 * **state_history_decades.csv** contains data at decade intervals 1880-2020 for male and female baby names for each US state
