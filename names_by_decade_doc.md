@@ -39,7 +39,8 @@ The fields are:
 * Name-Gender: A unique identifier combining name and gender, which sometimes is useful
 * Decade: The start of the decade. (e.g., "1880" means "1880-1889")
 * Number: Average number of entries in the SSA database for this year. (For early years, this is very different from number of births)
-* Proportion: The approximate proportion of babies born with this name, as calculated from this database.
+* Proportion: The approximate proportion of babies born with this name, as calculated from this database. This is written in "scientific notation" since the numbers are small. For example, "6.2e-06" means 6.2 times 10^-6, or 6.2 babies per million.
+
 
 ## How to use with ChatGPT
 
@@ -67,7 +68,7 @@ The format is: name, gender, a unique identifier made of the name and gender, de
 and proportion of babies with that name born that decade.
 
 I'd like the visualization tool to have a text entry box for a name,
-and also UI to choose male or female.
+and also an interface to choose male or female names.
 There should be a "submit" button next to the text entry box.
 Then, below that, I'd like a line graph showing the proportion of babies
 born over time with the name entered. If the name isn't found,
