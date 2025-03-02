@@ -38,7 +38,7 @@ The fields are:
 * Gender: "Male" or "Female" (This field follows the Social Security Adminstration conventions)
 * Name-Gender: A unique identifier combining name and gender, which sometimes is useful
 * Decade: The start of the decade. (e.g., "1880" means "1880-1889")
-* Number: Average number of entries in the SSA database for this year. (For early years, this is very different from number of births)
+* Number: Average number of entries in the SSA database for years in this decade. (For early decades, this is very different from number of births)
 * Proportion: The approximate proportion of babies born with this name, as calculated from this database. This is written in "scientific notation" since the numbers are small. For example, "6.2e-06" means 6.2 times 10^-6, or 6.2 babies per million.
 
 
