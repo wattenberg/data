@@ -2,7 +2,7 @@
 
 This repo contains data for classroom use in visualization homework.
 
-* **names_by_decade.js** decade-by-decade data on US baby name popularity. See (names_by_decade_doc.html) for documentation.
+* **names_by_decade.js** decade-by-decade data on US baby name popularity. See [(names_by_decade_doc.md](names_by_decade_doc.html) for documentation.
 
 ## Older material
 
