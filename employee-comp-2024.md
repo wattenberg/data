@@ -79,18 +79,20 @@ The fields are:
 I'd like the visualization tool to show a treemap of the data. The treemap should fill the entire browser window,
 to use space efficiently. The top level of hierarchy should
 represent the department, the next level should be job title, and the nodes should be employees.
-The area of a node should represent the total gross compensation of the employee. 
-Color should all reflect total compensation and be on a scale from white (lowest) to slate blue (highest).
-If the employee is one of the top ten earners, however, the color should be bright red.
-The borders of each node should be 1/2 pixel wide and gray.
+The area of a node should represent the total compensation of the employee. 
+Colors of the nodes should reflect the department. Choose a palette that made of
+dark earth tones: blends of dark browns, dark grays, and dark greens
+The borders of each node should be 1/2 pixel wide and light gray. 
+Borders of departments should be 2 pixels wide and white.
 
 At the top left of each department rectangle (inside the rectangle)
-should be a label, in white, of the department name. The type size should be 24 point. Only show as much of the label as will fit in the rectangle.
+should be a label, in white, of the department name. The type size should be 12 point,
+and the font should be bold. Only show as much of the label as will fit in the rectangle.
 
 When the user hovers the mouse over a node, they should see a well-formatted hover card showing
 all the field values for that node. The employee name, job title, and total compensation should be
-in large type; the other fields should be in smaller type.
+in large type; the other fields should be in smaller type. Field names should be flush left;
+field values should be flush right. Round all dollar amounts to the nearest dollar.
 
-When the user clicks on a node, it should launch a Google search for the employee's name, plus the word "boston",
-in a new tab.
+When the user clicks on a node, it should launch a Google search for the employee's name, plus the word "boston", in a new tab.
 ```
