@@ -1,8 +1,8 @@
 # Groceries Data, 2010 - 2025
 
-The file [groceries_no_TJ.js](https://wattenberg.github.io/data/groceries_data/groceries_no_TJ.js) contains historic groceries from four years (2010, 2016, 2022, and 2025).
+The file [groceries_no_TJ.js](https://wattenberg.github.io/data/groceries_data/groceries_no_TJ.js) contains historic grocery prices from four years (2010, 2016, 2022, and 2025).
 
-Each row represents the name of the Product, the Year the price was recorded, and the Price and Weight of the product at four stores: Aldi, Kroger, Publix, and Walmart.
+Each row includes the name of the Product, the Year the price was recorded, and the Price and Weight of the product at four stores: Aldi, Kroger, Publix, and Walmart.
 
 There are some additional columns, such as Price/Weight and Comment, that have been included for completeness. However, you do not have to work with them for this assignment.
 
@@ -12,7 +12,7 @@ The data from Trader Joe's has been intentionally omitted from this file.
 
 Imagine that you are a Trader Joe's retail strategist. Your task is to recommend a price for five grocery products given all the data you have on your competitors. For example, you could choose to match the average price across all grocery chains, or undercut everyone with lower prices, or adopt something more complex. You may even choose to use a different strategy for each product.
 
-Whatever your decision, please *1) describe the strategy*, and *2) provide visualizations to explain how your recommended product prices match the strategy chosen.*
+Whatever your decision, please *1) describe the strategy*, and *2) provide visualizations to explain how your recommended product prices were derived from the chosen strategy.*
 
 The five grocery items are:
 
