@@ -46,7 +46,7 @@ Note that these definitions are an approximation of the exact legal meanings; [t
 
 ## How to use with ChatGPT
 
-# Simple bar chart
+### Simple bar chart
 
 Here's a prompt that provides a starting point for making a visualization with this data.
 It lets you see a simple bar chart of total compensation.
@@ -85,7 +85,7 @@ Please only show bars for job titles where there are at least 10 employees with 
 I'd like the bars to be horizontal, with compensation amount on the x-axis.
 ```
 
-# More complex prompt
+### More complex prompt
 This prompt shows that you can actually see all the data at once! Note that visualizations that are this complex can take a few seconds to load.
 
 ```
