@@ -79,7 +79,10 @@ The fields are:
 * Multiple fields for different types of compensation ("REGULAR", "RETRO", etc.)
 * POSTAL: Zip code
 
-I'd like the visualization tool to show a bar chart of job titles vs. the average total compensation of people with that job title. Please only show bars for job titles where there are at least 10 employees with that job title. I'd like the bars to be horizontal, with compensation amount on the x-axis.
+I'd like the visualization tool to show a bar chart of
+job titles vs. the average total compensation of people with that job title.
+Please only show bars for job titles where there are at least 10 employees with that job title.
+I'd like the bars to be horizontal, with compensation amount on the x-axis.
 ```
 
 # More complex prompt
