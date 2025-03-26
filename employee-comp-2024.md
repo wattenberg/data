@@ -69,7 +69,7 @@ const bostonPayroll2024 =
 1,"Demesmin,Stanley",Boston Police Department,Police Lieutenant (Det),"161,306.48","105,724.70","6,906.86","223,773.96",12.52,"45,597.23","32,261.36","575,583.11",02052
 2,"Sordillo,Paul J",Facilities Management,Building Services Fleet Mgr,"108,815.78","20,055.71","413,783.39","24,772.61",,,,"567,427.49",02127
 3,"Smith,Sean P",Boston Police Department,Police Lieutenant,"155,265.97","96,850.51","21,740.86","148,505.22",,"97,045.79","38,816.51","558,224.86",02186
-[etc.]`;
+[etc.]
 
 The fields are:
 * _id: A numeric ID; probably not relevant for visualization
