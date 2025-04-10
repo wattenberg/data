@@ -1,6 +1,6 @@
 # Groceries Data, 2010 - 2025
 
-The files [groceries_Oct_2010.js]() and [groceries_Feb_2025.js]() contains historic grocery prices from 2010 and 2025.
+The files [groceries_Oct_2010.js](https://github.com/wattenberg/data/blob/main/groceries_data/groceries_Oct_2010.js) and [groceries_Feb_2025.js](https://github.com/wattenberg/data/blob/main/groceries_data/groceries_Feb_2025.js) contains historic grocery prices from 2010 and 2025.
 
 Each row includes the name of the Product, the Year the price was recorded, and the Price and Weight of the product at four stores: Aldi, Kroger, Publix, and Trader Joe's.
 
