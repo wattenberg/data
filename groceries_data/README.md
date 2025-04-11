@@ -20,8 +20,8 @@ The fields relevant to this example are:
 * Kroger.Weight: How much product is provided for the price at Kroger
 * Publix.Price: Price of product at Publix
 * Publix.Weight: How much product is provided for the price at Publix
-* Trader Joe's.Price: Price of product at Walmart
-* Trader Joe's.Weight: How much product is provided for the price at Walmart
+* Trader Joe's.Price: Price of product at Trader Joe's
+* Trader Joe's.Weight: How much product is provided for the price at Trader Joe's
 
 ## How to use with ChatGPT
 
